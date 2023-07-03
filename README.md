@@ -1,2 +1,2 @@
 # Diabetes-Prediction-System
-In this project we have implemented random classifier algorithm for predicting diabetes.Also using gradio library we have implemented a graphical interface.
+In this project, we have implemented Random Forest Classifier algorithm for predicting diabetes. We have also implemented a graphical interface with the help of library 'gradio'.
